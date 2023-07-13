@@ -2,6 +2,8 @@
   "name": "vsc-remedybg",
   "displayName": "vsc-remedybg",
   "description": "Sync file location with RemedyBG debugger",
+  "publisher": "ArseniyKhvorov",
+  "repository": "https://github.com/khvorov45/vsc-remedybg",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.80.0"
